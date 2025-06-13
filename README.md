@@ -45,4 +45,6 @@ To effectively navigate Nexus Darknet online, consider the following precautions
 
 This guide is exclusively for educational purposes. The information that is provided herein aims to enhance understanding of darknet operations. We do not promote, nor do we endorse any illegal activities. Always adhere to the relevant laws and regulations that are applicable in your jurisdiction.
 
-Update: User URLs
+
+
+Update:  13 June
