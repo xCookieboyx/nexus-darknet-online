@@ -51,4 +51,6 @@ This guide is exclusively for educational purposes. The information that is prov
 
 
 
-Update:  06/17/2025 Fixed url
+
+
+Update: Updated design pattern reference links
