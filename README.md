@@ -53,4 +53,6 @@ This guide is exclusively for educational purposes. The information that is prov
 
 
 
-Update: Updated design pattern reference links
+
+
+Update: Fixed broken links in debugging resources
