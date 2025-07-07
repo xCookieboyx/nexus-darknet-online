@@ -61,4 +61,6 @@ This guide is exclusively for educational purposes. The information that is prov
 
 
 
-Update:  04.07.2025 04:38:30 url is now available and clickable
+
+
+Update:  07.07.2025 Fixed broken link, now reachable
